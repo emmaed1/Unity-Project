@@ -4,3 +4,9 @@ Assignment 1 - Jump and "Run"
 - Added movement with keyboard keys
 - Added 'shift' as a boost
 - Added jump ability
+
+Assignment 2 - Asset Library/Terrain/More Movement
+- refined player controls
+- added houses
+- added terrain
+- added mountains
